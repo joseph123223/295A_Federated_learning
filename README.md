@@ -1,3 +1,3 @@
 # 295A_Federated_learning
 
-FedAvg sample updated
+10/31/2023 - FedAvg sample updated
