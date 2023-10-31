@@ -1,5 +1,7 @@
-# 295A_Federated_learning
+# 295A Federated Learning & 3D-Camera-Only-Detection
 
+## Federated Learning Framework
 ![image](https://github.com/joseph123223/295A_Federated_learning/blob/main/pics/FL_structure.png)
 
-10/31/2023 - FedAvg sample updated
+## Updated Info
+10/30/2023 - FedAvg sample updated
